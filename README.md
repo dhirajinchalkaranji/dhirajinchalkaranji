@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dhirajinchalkaranji
+- 👋 Hi, I’m Dhiraj Inchalkaranji
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me [LinkedIN](https://www.linkedin.com/in/dhirajinchalkaranji/)
