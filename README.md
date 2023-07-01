@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhiraj Inchalkaranji
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning React JS
-- 📫 How to reach me [LinkedIN](https://www.linkedin.com/in/dhirajinchalkaranji/)
+- 📫 Reach me @ [Dhiraj-dev.tech](https://dhiraj-dev.tech)
 
 <!---
 dhirajinchalkaranji/dhirajinchalkaranji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
